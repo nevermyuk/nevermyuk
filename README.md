@@ -3,7 +3,7 @@
 
 ## 🌟 About Me
 - 🎓 Fresh graduate from Singapore Institute of Technology, majoring in Software Engineering.
-- 🚀 On my Jedi path to becoming a full-stack developer.
+- 🚀 On my Jedi path to a full-stack developer.
 - 🌱 Currently sharpening my skills in front-end and back-end technologies.
 - ✨ Passionate about building seamless digital experiences.
 - 🤝 Believes in learning and growing with fellow travelers.
